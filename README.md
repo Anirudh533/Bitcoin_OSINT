@@ -1,3 +1,3 @@
 # Bitcoin_OSINT
 
-A OSINT tool to carry out bitcoin forensics
+A OSINT tool built with osint-spy to carry out bitcoin forensics
